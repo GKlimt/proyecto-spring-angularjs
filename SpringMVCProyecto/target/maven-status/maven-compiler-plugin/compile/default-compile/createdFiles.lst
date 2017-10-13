@@ -1,0 +1,8 @@
+com\mvc\modelo\Cliente.class
+com\mvc\modelo\Historial.class
+com\mvc\web\ClientesController.class
+com\mvc\servicios\ServicioClienteImpl.class
+com\mvc\config\ComponentesWeb.class
+com\mvc\servicios\ServicioCliente.class
+com\mvc\config\ComponentesNoWeb.class
+com\mvc\config\FrontController.class
