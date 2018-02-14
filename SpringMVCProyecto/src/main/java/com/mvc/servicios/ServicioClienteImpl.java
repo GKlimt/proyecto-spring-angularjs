@@ -11,9 +11,7 @@ import com.mvc.modelo.Cliente;
 @Repository
 public class ServicioClienteImpl implements ServicioCliente {
 
-	private static String clienteURI = "mongodb://JoshN:28DaysLater@cluster0-shard"
-			+ "-00-00-ak0pk.mongodb.net:27017,cluster0-shard" + "-00-01-ak0pk.mongodb.net:27017,cluster0-shard-"
-			+ "00-02-ak0pk.mongodb.net:27017/test?ssl=true&re" + "plicaSet=Cluster0-shard-0&authSource=admin";
+	private static String clienteURI = ;
 	private static MongoClientURI uri = null;
 	private static MongoClient mongoClient = null;
 
